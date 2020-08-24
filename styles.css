@@ -1,0 +1,66 @@
+ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+   
+}
+li {
+    display: inline;
+}
+
+body {
+    margin: 0;
+}
+
+
+
+.logo {
+    display: block; 
+    width: 200px;
+    justify-content: center;   
+    margin: 300px 820px 10px 820px;  
+    padding: 10px 10px 10px 10px;
+}
+
+.searchbar {
+    display: absolute;
+    justify-content: center;
+    margin: 10px 700px 10px 700px;  
+    padding: 0px 0px 0px 0px;
+}
+
+
+.button {
+    display: absolute;
+    justify-content: center;
+    margin: 10px 820px 10px 820px; 
+    padding: 10px 10px 10px 10px;
+    
+}
+
+
+
+.about {
+    float: left;
+}
+
+
+.gmail {
+    float: right;
+}
+
+
+.advertising {
+    position: absolute;
+    float: left; 
+    bottom: 10px;
+}
+
+
+.privacy {
+    position: absolute;
+    float: right; 
+    right: 0;
+    bottom: 10px;
+}
